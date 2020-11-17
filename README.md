@@ -21,18 +21,20 @@ I write about things I am familiar with and things that I am learning.
 * Url-shortener : [Chootu](https://chootu.netlify.app/)
 * Kanban task tracking board: [Kanbang](https://kanbang-d1e70.web.app/) -->
 
-<!-- <details>
+<details>
  <summary><strong>What i am learning/working on these days</strong></summary>
- <ul>
-   <li> Efficient system designing </li>
-   <li> Working with Clojure </li>
-   <li> Playing around with GCP </li>
-   <li> Building <a href="https://namelss.com">Namelss</a> </li>
-   <li> Blogging at <a href="https://mytrashcode.com">MTC</a> </li>
-   <li> React Native development</li>
-   <li> Kubernetes</li>
-  </ul>
-</details> -->
+ <p align="center" >
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> 
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="70">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
+<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="70" height="70"/>
+ <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="redux" width="70" height="70"/>
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70">
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
+</p> 
+</details>
 
 ![Aman github stats](https://github-readme-stats.vercel.app/api?username=amananku26&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amananku26&layout=compact&hide_border=true)
