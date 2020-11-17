@@ -6,7 +6,7 @@ If you found value in something I have created, please feel free to give me a sh
 <p align="center">View my portfolio at 👨‍💻 <a href="https://amananku26.github.io" target="_blank">amananku26.github.io</a>  </p>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/amananku26/"><img height="30" src="https://github.com/amananku26/amananku26/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/amananku26/"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/amananku26"><img height="30" src="https://github.com/amananku26/amananku26/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/aman.anku3/"><img height="30" src="https://github.com/amananku26/amananku26/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:amankumaranku@gmail.com"><img height="30" src="https://github.com/amananku26/amananku26/blob/master/mail.png?raw=true"></a>
