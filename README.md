@@ -39,7 +39,7 @@ I write about things I am familiar with and things that I am learning.
 </details>
 
 <!-- ![Aman github stats](https://github-readme-stats.vercel.app/api?username=amananku26&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000) -->
-<img src="https://github-readme-stats.vercel.app/api?username=amananku26&count_private=true&&show_icons=true&count_private=true&line_height=17" alt="Aman's github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=amananku26&count_private=true&&show_icons=true&count_private=true&line_height=27&width=27" alt="Aman's github stats" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amananku26&layout=compact&hide_border=true)
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=amananku26) -->
