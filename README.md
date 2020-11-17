@@ -36,4 +36,4 @@ I write about things I am familiar with and things that I am learning.
 
 ![Aman github stats](https://github-readme-stats.vercel.app/api?username=amananku26&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amananku26&layout=compact&hide_border=true)
-![Github stats](https://github-readme-stats.vercel.app/api?username=amananku26)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=amananku26) -->
