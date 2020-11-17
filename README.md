@@ -3,6 +3,8 @@
 I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
 If you found value in something I have created, please feel free to give me a shout out [@amananku26](https://twitter.com/amananku26/) or give some ♥ on [mail](amankumaranku@gmail.com). Feel free to reach out in case you want to just get in touch also.
 
+<p align="center">View my portfolio at 👨‍💻 <a href="https://amananku26.github.io" target="_blank">amananku26.github.io</a>  </p>
+
 <p align='center'>
 <a href="https://www.linkedin.com/in/amananku26/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/amananku26"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
