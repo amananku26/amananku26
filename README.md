@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="./profile.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/amananku26/amananku26/blob/main/Screenshot%20from%202020-12-10%2009-53-43.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
