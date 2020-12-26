@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-★ Currently Working on ![Facebook Clone](https://github.com/amananku26/Facebook-Clone)
+★ Currently Working on [Facebook Clone](https://github.com/amananku26/Facebook-Clone)
 
 <p align="center">
   <img src="https://github.com/amananku26/amananku26/blob/main/Screenshot%20from%202020-12-10%2009-53-43.png" width="100%" title="Intro Card" alt="Intro Card">
