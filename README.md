@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-★ Currently Working on [Facebook Clone](https://facebook-clone-ccd54.web.app/)  [WhatsApp Clone](https://whatsapp-clone-53d8c.web.app/rooms/QIPEvsdzwLBr8AcT1WVD)
+★ Currently Working on [Facebook Clone](https://facebook-clone-ccd54.web.app/) ----- [WhatsApp Clone](https://whatsapp-clone-53d8c.web.app/rooms/QIPEvsdzwLBr8AcT1WVD)
 
 <p align="center">
   <img src="https://github.com/amananku26/amananku26/blob/main/Screenshot%20from%202020-12-10%2009-53-43.png" width="100%" title="Intro Card" alt="Intro Card">
