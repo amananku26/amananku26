@@ -3,7 +3,7 @@
 ★ Currently Working on [Facebook Clone](https://facebook-clone-ccd54.web.app/) ----- [WhatsApp Clone](https://whatsapp-clone-53d8c.web.app/rooms/QIPEvsdzwLBr8AcT1WVD)
 
 <p align="center">
-  <img src="https://github.com/amananku26/amananku26/blob/main/Screenshot%20from%202020-12-10%2009-53-43.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/amananku26/amananku26/blob/main/Screenshot%202021-02-16%20103017%20(1).jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
@@ -33,7 +33,7 @@ If you found value in something I have created, please feel free to give me a sh
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
 </p> 
 </details>
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+<img align="right" alt="GIF" height="300px" width="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 <img src="https://github-readme-stats.vercel.app/api?username=amananku26&count_private=true&&show_icons=true&count_private=true&line_height=27&width=27" alt="Aman's github stats" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amananku26&layout=compact&hide_border=true)
