@@ -22,7 +22,7 @@ If you found value in something I have created, please feel free to give me a sh
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
  <p align="center" >
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70">
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="35%">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> 
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="70">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
