@@ -3,7 +3,7 @@
 ★ Currently Working on [Signal Clone (React-Native)](https://github.com/amananku26/react-native-signal-clone)
 
 <p align="center">
-  <img src="TopImage\Screenshot_136_1.jpg" width="100%" title="Intro Card" alt="Intro Card">
+ <a href="https://www.nextory.se"> <img src="TopImage\Screenshot_136_1.jpg" width="100%" title="Intro Card" alt="Intro Card"> </a>
 </p>
 
 I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
