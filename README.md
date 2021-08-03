@@ -2,9 +2,11 @@
 
 ★ Currently Working on [Signal Clone (React-Native)](https://github.com/amananku26/react-native-signal-clone)
 
-<p align="center">
+![](https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/deep-into-neural-network.gif)
+
+<!-- <p align="center">
 <a target="_blank" href="https://www.nextory.se">  <img src="https://github.com/amananku26/amananku26/blob/main/TopImage/Screenshot%20from%202020-12-10%2009-53-43.png" width="100%" title="Intro Card" alt="Intro Card"> </a>
-</p>
+</p> -->
 
 I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
 If you found value in something I have created, please feel free to give me a shout out [@amananku26](https://twitter.com/amananku26/) or give some ♥ on mail - (amankumaranku@gmail.com). Feel free to reach out in case you want to just get in touch also.
@@ -18,9 +20,9 @@ If you found value in something I have created, please feel free to give me a sh
 <a href="mailto:amankumaranku@gmail.com"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/mail.png"></a>
 </p>
 
-<img
+<!-- <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=amananku26&max-items=2&logos=true&style=--item-bg-color:%23f00;--item-border-radius:10px"
-/>
+/> -->
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
