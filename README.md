@@ -41,3 +41,7 @@ If you found value in something I have created, please feel free to give me a sh
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amananku26&layout=compact&hide_border=true)
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+<img src="https://activity-graph.herokuapp.com/graph?username=amananku26&theme=github" alt="GitHub Activity Graph" width="100%" />
