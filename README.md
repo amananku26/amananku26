@@ -2,7 +2,7 @@
 
 ★ Currently Working on [Signal Clone (React-Native)](https://github.com/amananku26/react-native-signal-clone)
 
-![](https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/deep-into-neural-network.gif)
+![](https://visme.co/blog/wp-content/uploads/2016/04/Header-5.gif)
 
 <!-- <p align="center">
 <a target="_blank" href="https://www.nextory.se">  <img src="https://github.com/amananku26/amananku26/blob/main/TopImage/Screenshot%20from%202020-12-10%2009-53-43.png" width="100%" title="Intro Card" alt="Intro Card"> </a>
