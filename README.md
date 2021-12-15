@@ -2,7 +2,7 @@
 
 ★ Currently Working on [Signal Clone (React-Native)](https://github.com/amananku26/react-native-signal-clone)
 
-![](https://i.pinimg.com/originals/59/a2/98/59a2989f789bd2e6731e2f2cfe23cd91.gif)
+![](https://images.template.net/wp-content/uploads/2016/11/16135851/Cartoon-Gif-Animated1.gif)
 
 <!-- <p align="center">
 <a target="_blank" href="https://www.nextory.se">  <img src="https://github.com/amananku26/amananku26/blob/main/TopImage/Screenshot%20from%202020-12-10%2009-53-43.png" width="100%" title="Intro Card" alt="Intro Card"> </a>
