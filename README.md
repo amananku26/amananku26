@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-★ Currently Working on [Signal Clone (React-Native)](https://github.com/amananku26/react-native-signal-clone)
+★ Currently Learning &darr;
 
 ![](https://www.cybavo.com/img/cms/nfts-banner.png)
 
