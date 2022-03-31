@@ -8,7 +8,7 @@
 <a target="_blank" href="https://www.nextory.se">  <img src="https://github.com/amananku26/amananku26/blob/main/TopImage/Screenshot%20from%202020-12-10%2009-53-43.png" width="100%" title="Intro Card" alt="Intro Card"> </a>
 </p> -->
 
-I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
+My major strengths are in giving realistic promises, being responsive and responsible, concentrating on business needs and communications. So I am not a pure geek thinking about technology only but, first, a making-things-happen person. 
 If you found value in something I have created, please feel free to give me a shout out [@amananku26](https://twitter.com/amananku26/) or give some ♥ on mail - (amankumaranku@gmail.com). Feel free to reach out in case you want to just get in touch also.
 
 <p align="center">View my portfolio at 👨‍💻 <a href="https://amananku26.github.io" target="_blank">amananku26.github.io</a>  </p>
