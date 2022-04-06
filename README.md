@@ -63,7 +63,7 @@ If you found value in something I have created, please feel free to give me a sh
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
 </p>
-<a href="https://app.daily.dev/amananku26"><img src="https://api.daily.dev/devcards/61832a7a34c347cf90235a1e284633a0.png?r=5u4" align="right" height="100%" width="35%" alt="AMAN ANKU's Dev Card"/></a>
+<a href="https://app.daily.dev/amananku26"><img src="https://api.daily.dev/devcards/61832a7a34c347cf90235a1e284633a0.png?r=nn0" align="right" height="100%" width="35%" alt="AMAN ANKU's Dev Card"/></a>
 <img src="https://github-readme-stats.vercel.app/api?username=amananku26&count_private=true&&show_icons=true&count_private=true&line_height=27&width=27" alt="Aman's github stats" />
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amananku26&theme=dark&hide_border=true&line_height=27&width=27"/>
