@@ -74,3 +74,8 @@ If you found value in something I have created, please feel free to give me a sh
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 <img src="https://activity-graph.herokuapp.com/graph?username=amananku26&theme=github" alt="GitHub Activity Graph" width="100%" />
+
+ <h3><p align="center">Total Profile Visit:</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/amananku26/count.svg"/>
+</p>
