@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ★ Currently Learning &darr;
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=amananku26.visitor-badge)
 ![](https://www.cybavo.com/img/cms/nfts-banner.png)
 
 <!-- <p align="center">
@@ -79,3 +79,5 @@ If you found value in something I have created, please feel free to give me a sh
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/amananku26/count.svg"/>
 </p>
+  
+  
