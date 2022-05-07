@@ -1,7 +1,8 @@
 ### Hi there 👋
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=amananku26.visitor-badge&left_text=MyPageVisitors)
+<br/>
 ★ Currently Learning &darr;
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=amananku26.visitor-badge)
+
 ![](https://www.cybavo.com/img/cms/nfts-banner.png)
 
 <!-- <p align="center">
