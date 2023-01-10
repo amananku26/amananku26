@@ -77,10 +77,6 @@ If you found value in something I have created, please feel free to give me a sh
 ### 📈 GitHub Activity Graph:
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amananku26&theme=dracula" alt="GitHub Activity Graph" width="100%" />
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/amananku26/count.svg" />
-</p>
 
  <h3><p align="center">Total Profile Visit: since 07.05.2022</p>
 <p align="center">
