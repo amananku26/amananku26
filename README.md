@@ -2,7 +2,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=amananku26.visitor-badge&left_text=MyPageVisitors)
 <br/>
 <!-- ★ Currently Learning &darr; --> 
-Hi 👋! I am a web developer, technical writer and open-source enthusiast
+Hi 👋! I am a web developer, technical writer , open-source enthusiast and freelancer
 
 ![](https://codahosted.io/docs/kSZJBqOYEl/blobs/bl-SgVXe_7UUf/f44dbe8411f06a299739daf614677c412a6e7b545c749e15510b1579be9a686f807184f74860fd3ee9366e5fad1528b438855d853fd6fd0930f4c5d015ecb3be6034c661a03eddb3a53c6d26f679e6730154fc5e61b15798baa62536617b512454ed746d)
 
