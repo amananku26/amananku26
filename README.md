@@ -1,5 +1,4 @@
 ### Hi there 👋
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=amananku26.visitor-badge&left_text=MyPageVisitors)
 <br/>
 <!-- ★ Currently Learning &darr; --> 
 Hi 👋! I am a web developer, technical writer , open-source enthusiast and freelancer
