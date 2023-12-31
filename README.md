@@ -72,10 +72,6 @@ If you found value in something I have created, please feel free to give me a sh
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amananku26&layout=compact&hide_border=true)
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=amananku26&theme=dracula" alt="GitHub Activity Graph" width="100%" />
-
 
  <h3><p align="center">Total Profile Visit: since 07.05.2022</p>
 <p align="center">
