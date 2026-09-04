@@ -1,0 +1,27 @@
+name: Update contribution field
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate contribution SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: amananku26
+          outputs: |
+            assets/github-snake.svg?palette=github-light
+            assets/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit generated assets
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update contribution field"
+          add: "assets/github-snake.svg assets/github-snake-dark.svg"
